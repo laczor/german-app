@@ -12,16 +12,12 @@
               <span v-else>_______</span>
             </v-col>
 
-            <!-- Word with Tooltip -->
             <v-col cols="auto">
-              <!-- <v-tooltip bottom> -->
-                <!-- <template v-slot:activator="{ on, attrs }"> -->
-                  <v-btn text @click="showTranslation = !showTranslation">
-                    {{ word.value.word }}
-                  </v-btn>
-                <!-- </template> -->
-                <!-- <span>{{ word.value.translation }}</span> -->
-              <!-- </v-tooltip> -->
+              <div> {{ word.value.word }} </div>
+            </v-col>
+
+            <v-col cols="auto">
+              <div>( {{ word.value.translation }} )</div>
             </v-col>
           </v-row>
         </div>
