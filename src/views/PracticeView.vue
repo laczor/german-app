@@ -1,14 +1,9 @@
 <template>
-    <div>PracticeView</div>
-</template>
+    <v-container>
+        <RouterView></RouterView>
+    </v-container>
+  </template>
 
-<script lang="ts">
-import { defineComponent } from 'vue';
+  <script setup>
 
-export default defineComponent({
-    name: 'PracticeView',
-    setup(){
-        return {};
-},
-});
-</script>
+  </script>
