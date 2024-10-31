@@ -1,0 +1,132 @@
+[
+    {
+      "noun": "Übung",
+      "article": "die",
+      "plural": {
+        "noun": "Übungen",
+        "article": "die",
+        "isSameAsSingular": false
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Gesundheit",
+      "article": "die",
+      "plural": {
+        "noun": "Gesundheiten",
+        "article": "die",
+        "isSameAsSingular": false
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Einsamkeit",
+      "article": "die",
+      "plural": {
+        "noun": "Einsamkeiten",
+        "article": "die",
+        "isSameAsSingular": false
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Position",
+      "article": "die",
+      "plural": {
+        "noun": "Positionen",
+        "article": "die",
+        "isSameAsSingular": false
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Freundschaft",
+      "article": "die",
+      "plural": {
+        "noun": "Freundschaften",
+        "article": "die",
+        "isSameAsSingular": false
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Majorität",
+      "article": "die",
+      "plural": {
+        "noun": "Majoritäten",
+        "article": "die",
+        "isSameAsSingular": false
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Lampe",
+      "article": "die",
+      "plural": {
+        "noun": "Lampen",
+        "article": "die",
+        "isSameAsSingular": false
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Röslein",
+      "article": "das",
+      "plural": {
+        "noun": "Röslein",
+        "article": "die",
+        "isSameAsSingular": true
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Gymnasium",
+      "article": "das",
+      "plural": {
+        "noun": "Gymnasien",
+        "article": "die",
+        "isSameAsSingular": false
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Königtum",
+      "article": "das",
+      "plural": {
+        "noun": "Königtümer",
+        "article": "die",
+        "isSameAsSingular": false
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Pullover",
+      "article": "der",
+      "plural": {
+        "noun": "Pullover",
+        "article": "die",
+        "isSameAsSingular": true
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Brunnen",
+      "article": "der",
+      "plural": {
+        "noun": "Brunnen",
+        "article": "die",
+        "isSameAsSingular": true
+      },
+      "tags": ["Practice Makes Perfect"]
+    },
+    {
+      "noun": "Mantel",
+      "article": "der",
+      "plural": {
+        "noun": "Mäntel",
+        "article": "die",
+        "isSameAsSingular": false
+      },
+      "tags": ["Practice Makes Perfect"]
+    }
+  ]
