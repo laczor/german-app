@@ -7,6 +7,10 @@ import practiceNouns from "./components/practiceNouns.vue";
 
 const routes = [
   {
+    path: '/',
+    redirect: '/practice', // Redirect "/" to "/practice"
+  },
+  {
     path: '/practice',
     component: PracticeView,
     children: [
