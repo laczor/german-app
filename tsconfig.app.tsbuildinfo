@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/router.ts","./src/vite-env.d.ts","./src/domain/index.ts","./src/domain/noun.ts","./src/App.vue","./src/components/practiceForm.vue","./src/components/practiceNouns.vue","./src/views/DictionaryView.vue","./src/views/ExamView.vue","./src/views/PracticeView.vue","./shims-vue.d.ts"],"version":"5.6.3"}
